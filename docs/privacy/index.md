@@ -41,7 +41,8 @@ Payments are handled by our payment processor. We do not collect or store credit
 - You can edit/clear your custom instructions at any time.
 
 ## Contact
-For privacy questions, contact: **[PUT YOUR SUPPORT EMAIL HERE]**
+For privacy questions, contact: ghlextension@gmail.com
 
 ## Changes
 We may update this policy as the extension changes. The effective date will be updated when changes are published.
+
